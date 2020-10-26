@@ -1,6 +1,2 @@
 This is intended for code and tech artifacts. 
 
-Just add some content here.
-
-
-Adding some more code will lenghten the size of the file
